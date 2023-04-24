@@ -1,7 +1,7 @@
 # DARTEdgeAI
 DARTEdge AI Low-level Language
 
-https://github.com/radicaldeepscale/DARTEdgeAI/wiki
+https://github.com/radicaldeepscale/DARTEdgeAI/wiki/DARTEdge-AI
 
 The Intial main Branch upload consisted of a test with ChatGPT. Having not the hardware and OS desired to Prototype
 Embedding Characters in the Silicon Components, ChatGPT was able to emulate the materials for Prototyping - countering the lack of budget
