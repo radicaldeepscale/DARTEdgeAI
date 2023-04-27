@@ -1,5 +1,5 @@
-# DARTEdgeAI
-DARTEdge AI Low-level Language
+# DART EdgeAI
+DART Edge AI Low-level Language
 
 https://github.com/radicaldeepscale/DARTEdgeAI/wiki/DARTEdge-AI
 
@@ -40,6 +40,7 @@ DART Meadow LLC
 Radical Deepscale LLC 
 703-298-1228
 https://www.dartmeadow.com/
+https://cotharticren.wixsite.com/dartmeadow
 
 1213 N Kingshighway Suite 102
 Cape Girardeau, Missouri, 63701
