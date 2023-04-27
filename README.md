@@ -1,5 +1,5 @@
-# DARTEdgeAI
-DARTEdge AI Low-level Language
+# DART Edge AI
+DART Edge AI Low-level Language
 
 https://github.com/radicaldeepscale/DARTEdgeAI/wiki/DARTEdge-AI
 
