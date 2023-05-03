@@ -1,3 +1,4 @@
+
 # DART Edge AI
 DART Edge AI Low-level Language
 
@@ -46,3 +47,5 @@ https://cotharticren.wixsite.com/dartmeadow
 
 1213 N Kingshighway Suite 102
 Cape Girardeau, Missouri, 63701
+
+[DART Edge AI.pdf](https://github.com/radicaldeepscale/DARTEdgeAI/files/11380276/DART.Edge.AI.pdf)
