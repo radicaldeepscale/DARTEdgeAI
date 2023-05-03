@@ -1,7 +1,7 @@
 # DART Edge AI
 DART Edge AI Low-level Language
 
-https://github.com/radicaldeepscale/DARTEdgeAI/wiki/DARTEdge-AI
+https://github.com/radicaldeepscale/DARTEdgeAI/wiki/DART-Edge-AI
 
 The Intial main Branch upload consisted of a test with ChatGPT. Having not the hardware and OS desired to Prototype
 Embedding Characters in the Silicon Components, ChatGPT was able to emulate the materials for Prototyping - countering the lack of budget
