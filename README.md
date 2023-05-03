@@ -4,11 +4,11 @@ DART Edge AI Low-level Language
 
 https://github.com/radicaldeepscale/DARTEdgeAI/wiki/DART-Edge-AI
 
-The Intial main Branch upload consisted of a test with ChatGPT. Having not the hardware and OS desired to Prototype
+The Initial main Branch upload consisted of a test with ChatGPT. Having not the hardware and OS desired to Prototype
 Embedding Characters in the Silicon Components, ChatGPT was able to emulate the materials for Prototyping - countering the lack of budget
 as well the current optimal production necessity being on the road at the time of this report.
 
-The DARTEdge AI Low-level Language is designed for custom Hardware Embedding.
+The DART Edge AI Low-level Language is designed for custom Hardware Embedding.
 With this in place The language will assume machine code or bytecode runs from wall power across the CPU
 and GPU using electron states for switching gates but here where the former 0 and 1
 are no longer accounted for as mathematical
@@ -48,4 +48,5 @@ https://cotharticren.wixsite.com/dartmeadow
 1213 N Kingshighway Suite 102
 Cape Girardeau, Missouri, 63701
 
-[DART Edge AI.pdf](https://github.com/radicaldeepscale/DARTEdgeAI/files/11380276/DART.Edge.AI.pdf)
+[DART Edge AI.pdf](https://github.com/radicaldeepscale/DARTEdgeAI/files/11380346/DART.Edge.AI.pdf)
+
