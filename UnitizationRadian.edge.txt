@@ -1,0 +1,21 @@
+(UnitizationRadian):-: { 
+
+with 
+var (a)
+Var (b)
+var (u)
+var (r)
+
+{
+
+place { var (a) with var (b) } {
+
+when var (a) =  u+u & var (b) = u*.005
+}
+thenplace var (a) with var (b) 
+
+}
+
+irout ("Result: "placeto (r))
+
+}::::
