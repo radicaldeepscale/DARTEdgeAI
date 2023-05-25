@@ -2,7 +2,8 @@
 # DART Edge AI
 DART Edge AI Low-level Language
 
-https://github.com/radicaldeepscale/DARTEdgeAI/wiki/DART-Edge-AI
+[DART Edge AI Wiki]
+(https://github.com/radicaldeepscale/DARTEdgeAI/wiki/DART-Edge-AI)
 
 The Initial main Branch upload consisted of a test with ChatGPT. Having not the hardware and OS desired to Prototype
 Embedding Characters in the Silicon Components, ChatGPT was able to emulate the materials for Prototyping - countering the lack of budget
@@ -49,4 +50,7 @@ https://cotharticren.wixsite.com/dartmeadow
 Cape Girardeau, Missouri, 63701
 
 [DART Edge AI.pdf](https://github.com/radicaldeepscale/DARTEdgeAI/files/11569275/DART.Edge.AI.pdf)
+
+[DART Edge AI IDE]
+(https://www.dartmeadow.com/dart-edge-ai-ide)
 
