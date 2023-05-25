@@ -48,5 +48,5 @@ https://cotharticren.wixsite.com/dartmeadow
 1213 N Kingshighway Suite 102
 Cape Girardeau, Missouri, 63701
 
-[DART Edge AI.pdf](https://github.com/radicaldeepscale/DARTEdgeAI/files/11380346/DART.Edge.AI.pdf)
+[DART Edge AI.pdf](https://github.com/radicaldeepscale/DARTEdgeAI/files/11569275/DART.Edge.AI.pdf)
 
