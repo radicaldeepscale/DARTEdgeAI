@@ -40,10 +40,11 @@ Justin C. Venable
 Chief Executive Officer
 DART Meadow LLC 
 Radical Deepscale LLC 
-703-298-1228
+
 https://www.dartmeadow.com/
 https://www.dartmedge.com/
 https://www.dartedgeai.com/
+
 Maintenance Link:
 https://cotharticren.wixsite.com/dartmeadow
 
