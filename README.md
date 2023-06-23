@@ -54,5 +54,5 @@ Cape Girardeau, Missouri, 63701
 [DART Edge AI IDE]
 (https://www.dartmeadow.com/dart-edge-ai-ide)
 
-![DART Edge AI IDE ](https://raw.githubusercontent.com/radicaldeepscale/DARTEdgeAI/main/IMG_0771.jpeg)
-
+![DART Edge AI IDE]
+(https://raw.githubusercontent.com/radicaldeepscale/DARTEdgeAI/main/Screenshot_2023-06-23-16-36-55-08.jpg)
