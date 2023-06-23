@@ -37,12 +37,15 @@ Milestone 3: Opensource and Custom Hardware with DARTEdge AI for protyping after
 Chief Engineer, 
 
 Justin C. Venable
+
 Chief Executive Officer
-DART Meadow LLC 
+
+DART Meadow LLC
+
 Radical Deepscale LLC 
 
 https://www.dartmeadow.com/
-https://www.dartmedge.com/
+https://www.dartedge.com/
 https://www.dartedgeai.com/
 
 Maintenance Link:
