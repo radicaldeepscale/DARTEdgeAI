@@ -1,0 +1,162 @@
+[
+{"Z":"","Sym":"","Element":"","Origin of name":"","Group":"","Period":"","Atomic weight":"u ()","Density":"g / cm3","Melt":"K","Boil":"K","Heat":"J/g�K","Neg10":"","Abundance":""}
+,
+{"Z":"1","Sym":"H","Element":"Hydrogen","Origin of name":"the Greek 'hydro' and 'genes' meaning water-forming","Group":"1","Period":"1","Atomic weight":"1.0082 3 4 9","Density":"0.00008988","Melt":"14.01","Boil":"20.28","Heat":"14.304","Neg10":"2.2","Abundance":"1400"},
+{"Z":"2","Sym":"He","Element":"Helium","Origin of name":"the Greek 'helios' meaning sun","Group":"18","Period":"1","Atomic weight":"4.002602(2)2 4","Density":"0.0001785","Melt":"0.956","Boil":"4.22","Heat":"5.193","Neg10":"�","Abundance":"0.008"}
+,
+{"Z":"3","Sym":"Li","Element":"Lithium","Origin of name":"the Greek 'lithos' meaning stone","Group":"1","Period":"2","Atomic weight":"6.942 3 4 5 9","Density":"0.534","Melt":"453.69","Boil":"1560","Heat":"3.582","Neg10":"0.98","Abundance":"20"},
+{"Z":"4","Sym":"Be","Element":"Beryllium","Origin of name":"the Greek name for beryl, 'beryllo'","Group":"2","Period":"2","Atomic weight":"9.012182(3)","Density":"1.85","Melt":"1560","Boil":"2742","Heat":"1.825","Neg10":"1.57","Abundance":"2.8"},
+{"Z":"5","Sym":"B","Element":"Boron","Origin of name":"the Arabic 'buraq', which was the name for borax","Group":"13","Period":"2","Atomic weight":"10.812 3 4 9","Density":"2.34","Melt":"2349","Boil":"4200","Heat":"1.026","Neg10":"2.04","Abundance":"10"},
+{"Z":"6","Sym":"C","Element":"Carbon","Origin of name":"the Latin 'carbo', meaning charcoal","Group":"14","Period":"2","Atomic weight":"12.0112 4 9","Density":"2.267","Melt":"3800","Boil":"4300","Heat":"0.709","Neg10":"2.55","Abundance":"200"},
+{"Z":"7","Sym":"N","Element":"Nitrogen","Origin of name":"the Greek 'nitron' and 'genes' meaning nitre-forming","Group":"15","Period":"2","Atomic weight":"14.0072 4 9","Density":"0.0012506","Melt":"63.15","Boil":"77.36","Heat":"1.04","Neg10":"3.04","Abundance":"19"},
+{"Z":"8","Sym":"O","Element":"Oxygen","Origin of name":"the Greek 'oxy' and 'genes' meaning acid-forming","Group":"16","Period":"2","Atomic weight":"15.9992 4 9","Density":"0.001429","Melt":"54.36","Boil":"90.2","Heat":"0.918","Neg10":"3.44","Abundance":"461000"},
+{"Z":"9","Sym":"F","Element":"Fluorine","Origin of name":"the Latin 'fluere', meaning to flow","Group":"17","Period":"2","Atomic weight":"18.9984032(5)","Density":"0.001696","Melt":"53.53","Boil":"85.03","Heat":"0.824","Neg10":"3.98","Abundance":"585"},
+{"Z":"10","Sym":"Ne","Element":"Neon","Origin of name":"the Greek 'neos', meaning new","Group":"18","Period":"2","Atomic weight":"20.1797(6)2 3","Density":"0.0008999","Melt":"24.56","Boil":"27.07","Heat":"1.03","Neg10":"�","Abundance":"0.005"}
+,
+{"Z":"11","Sym":"Na","Element":"Sodium","Origin of name":"the English word soda (natrium in Latin)","Group":"1","Period":"3","Atomic weight":"22.98976928(2)","Density":"0.971","Melt":"370.87","Boil":"1156","Heat":"1.228","Neg10":"0.93","Abundance":"23600"},
+{"Z":"12","Sym":"Mg","Element":"Magnesium","Origin of name":"Magnesia, a district of Eastern Thessaly in Greece","Group":"2","Period":"3","Atomic weight":"24.3059","Density":"1.738","Melt":"923","Boil":"1363","Heat":"1.023","Neg10":"1.31","Abundance":"23300"},
+{"Z":"13","Sym":"Al","Element":"Aluminium","Origin of name":"the Latin name for alum, 'alumen' meaning bitter salt","Group":"13","Period":"3","Atomic weight":"26.9815386(8)","Density":"2.698","Melt":"933.47","Boil":"2792","Heat":"0.897","Neg10":"1.61","Abundance":"82300"},
+{"Z":"14","Sym":"Si","Element":"Silicon","Origin of name":"the Latin 'silex' or 'silicis', meaning flint","Group":"14","Period":"3","Atomic weight":"28.0854 9","Density":"2.3296","Melt":"1687","Boil":"3538","Heat":"0.705","Neg10":"1.9","Abundance":"282000"},
+{"Z":"15","Sym":"P","Element":"Phosphorus","Origin of name":"the Greek 'phosphoros', meaning bringer of light","Group":"15","Period":"3","Atomic weight":"30.973762(2)","Density":"1.82","Melt":"317.3","Boil":"550","Heat":"0.769","Neg10":"2.19","Abundance":"1050"},
+{"Z":"16","Sym":"S","Element":"Sulfur","Origin of name":"Either from the Sanskrit 'sulvere', or the Latin 'sulfurium', both names for sulfur","Group":"16","Period":"3","Atomic weight":"32.062 4 9","Density":"2.067","Melt":"388.36","Boil":"717.87","Heat":"0.71","Neg10":"2.58","Abundance":"350"},
+{"Z":"17","Sym":"Cl","Element":"Chlorine","Origin of name":"the Greek 'chloros', meaning greenish yellow","Group":"17","Period":"3","Atomic weight":"35.452 3 4 9","Density":"0.003214","Melt":"171.6","Boil":"239.11","Heat":"0.479","Neg10":"3.16","Abundance":"145"},
+{"Z":"18","Sym":"Ar","Element":"Argon","Origin of name":"the Greek, 'argos', meaning idle","Group":"18","Period":"3","Atomic weight":"39.948(1)2 4","Density":"0.0017837","Melt":"83.8","Boil":"87.3","Heat":"0.52","Neg10":"�","Abundance":"3.5"}
+,
+{"Z":"19","Sym":"K","Element":"Potassium","Origin of name":"the English word potash (kalium in Latin)","Group":"1","Period":"4","Atomic weight":"39.0983(1)","Density":"0.862","Melt":"336.53","Boil":"1032","Heat":"0.757","Neg10":"0.82","Abundance":"20900"},
+{"Z":"20","Sym":"Ca","Element":"Calcium","Origin of name":"the Latin 'calx' meaning lime","Group":"2","Period":"4","Atomic weight":"40.078(4)2","Density":"1.54","Melt":"1115","Boil":"1757","Heat":"0.647","Neg10":"1","Abundance":"41500"},
+{"Z":"21","Sym":"Sc","Element":"Scandium","Origin of name":"Scandinavia (with the Latin name Scandia)","Group":"3","Period":"4","Atomic weight":"44.955912(6)","Density":"2.989","Melt":"1814","Boil":"3109","Heat":"0.568","Neg10":"1.36","Abundance":"22"},
+{"Z":"22","Sym":"Ti","Element":"Titanium","Origin of name":"Titans, the sons of the Earth goddess of Greek mythology","Group":"4","Period":"4","Atomic weight":"47.867(1)","Density":"4.54","Melt":"1941","Boil":"3560","Heat":"0.523","Neg10":"1.54","Abundance":"5650"},
+{"Z":"23","Sym":"V","Element":"Vanadium","Origin of name":"Vanadis, an old Norse name for the Scandinavian goddess Freyja","Group":"5","Period":"4","Atomic weight":"50.9415(1)","Density":"6.11","Melt":"2183","Boil":"3680","Heat":"0.489","Neg10":"1.63","Abundance":"120"},
+{"Z":"24","Sym":"Cr","Element":"Chromium","Origin of name":"the Greek 'chroma', meaning colour","Group":"6","Period":"4","Atomic weight":"51.9961(6)","Density":"7.15","Melt":"2180","Boil":"2944","Heat":"0.449","Neg10":"1.66","Abundance":"102"},
+{"Z":"25","Sym":"Mn","Element":"Manganese","Origin of name":"Either the Latin 'magnes', meaning magnet or from the black magnesium oxide, 'magnesia nigra'","Group":"7","Period":"4","Atomic weight":"54.938045(5)","Density":"7.44","Melt":"1519","Boil":"2334","Heat":"0.479","Neg10":"1.55","Abundance":"950"},
+{"Z":"26","Sym":"Fe","Element":"Iron","Origin of name":"the Anglo-Saxon name iren (ferrum in Latin)","Group":"8","Period":"4","Atomic weight":"55.845(2)","Density":"7.874","Melt":"1811","Boil":"3134","Heat":"0.449","Neg10":"1.83","Abundance":"56300"},
+{"Z":"27","Sym":"Co","Element":"Cobalt","Origin of name":"the German word 'kobald', meaning goblin","Group":"9","Period":"4","Atomic weight":"58.933195(5)","Density":"8.86","Melt":"1768","Boil":"3200","Heat":"0.421","Neg10":"1.88","Abundance":"25"},
+{"Z":"28","Sym":"Ni","Element":"Nickel","Origin of name":"the shortened of the German 'kupfernickel' meaning either devil's copper or St. Nicholas's copper","Group":"10","Period":"4","Atomic weight":"58.6934(4)","Density":"8.912","Melt":"1728","Boil":"3186","Heat":"0.444","Neg10":"1.91","Abundance":"84"},
+{"Z":"29","Sym":"Cu","Element":"Copper","Origin of name":"the Old English name coper in turn derived from the Latin 'Cyprium aes', meaning a metal from Cyprus","Group":"11","Period":"4","Atomic weight":"63.546(3)4","Density":"8.96","Melt":"1357.77","Boil":"2835","Heat":"0.385","Neg10":"1.9","Abundance":"60"},
+{"Z":"30","Sym":"Zn","Element":"Zinc","Origin of name":"the German, 'zinc', which may in turn be derived from the Persian word 'sing', meaning stone","Group":"12","Period":"4","Atomic weight":"65.38(2)","Density":"7.134","Melt":"692.88","Boil":"1180","Heat":"0.388","Neg10":"1.65","Abundance":"70"},
+{"Z":"31","Sym":"Ga","Element":"Gallium","Origin of name":"France (with the Latin name Gallia)","Group":"13","Period":"4","Atomic weight":"69.723(1)","Density":"5.907","Melt":"302.9146","Boil":"2477","Heat":"0.371","Neg10":"1.81","Abundance":"19"},
+{"Z":"32","Sym":"Ge","Element":"Germanium","Origin of name":"Germany (with the Latin name Germania)","Group":"14","Period":"4","Atomic weight":"72.630(8)","Density":"5.323","Melt":"1211.4","Boil":"3106","Heat":"0.32","Neg10":"2.01","Abundance":"1.5"},
+{"Z":"33","Sym":"As","Element":"Arsenic","Origin of name":"the Greek name 'arsenikon' for the yellow pigment orpiment","Group":"15","Period":"4","Atomic weight":"74.92160(2)","Density":"5.776","Melt":"1090 7","Boil":"887","Heat":"0.329","Neg10":"2.18","Abundance":"1.8"},
+{"Z":"34","Sym":"Se","Element":"Selenium","Origin of name":"Moon (with the Greek name selene)","Group":"16","Period":"4","Atomic weight":"78.96(3)4","Density":"4.809","Melt":"453","Boil":"958","Heat":"0.321","Neg10":"2.55","Abundance":"0.05"},
+{"Z":"35","Sym":"Br","Element":"Bromine","Origin of name":"the Greek 'bromos' meaning stench","Group":"17","Period":"4","Atomic weight":"79.9049","Density":"3.122","Melt":"265.8","Boil":"332","Heat":"0.474","Neg10":"2.96","Abundance":"2.4"},
+{"Z":"36","Sym":"Kr","Element":"Krypton","Origin of name":"the Greek 'kryptos', meaning hidden","Group":"18","Period":"4","Atomic weight":"83.798(2)2 3","Density":"0.003733","Melt":"115.79","Boil":"119.93","Heat":"0.248","Neg10":"3","Abundance":"<0.001"},
+{"Z":"37","Sym":"Rb","Element":"Rubidium","Origin of name":"the Latin 'rubidius', meaning deepest red","Group":"1","Period":"5","Atomic weight":"85.4678(3)2","Density":"1.532","Melt":"312.46","Boil":"961","Heat":"0.363","Neg10":"0.82","Abundance":"90"},
+{"Z":"38","Sym":"Sr","Element":"Strontium","Origin of name":"Strontian, a small town in Scotland","Group":"2","Period":"5","Atomic weight":"87.62(1)2 4","Density":"2.64","Melt":"1050","Boil":"1655","Heat":"0.301","Neg10":"0.95","Abundance":"370"},
+{"Z":"39","Sym":"Y","Element":"Yttrium","Origin of name":"Ytterby, Sweden","Group":"3","Period":"5","Atomic weight":"88.90585(2)","Density":"4.469","Melt":"1799","Boil":"3609","Heat":"0.298","Neg10":"1.22","Abundance":"33"},
+{"Z":"40","Sym":"Zr","Element":"Zirconium","Origin of name":"the Persian 'zargun', meaning gold coloured","Group":"4","Period":"5","Atomic weight":"91.224(2)2","Density":"6.506","Melt":"2128","Boil":"4682","Heat":"0.278","Neg10":"1.33","Abundance":"165"},
+{"Z":"41","Sym":"Nb","Element":"Niobium","Origin of name":"Niobe, daughter of king Tantalus from Greek mythology","Group":"5","Period":"5","Atomic weight":"92.90638(2)","Density":"8.57","Melt":"2750","Boil":"5017","Heat":"0.265","Neg10":"1.6","Abundance":"20"},
+{"Z":"42","Sym":"Mo","Element":"Molybdenum","Origin of name":"the Greek 'molybdos' meaning lead","Group":"6","Period":"5","Atomic weight":"95.96(2)2","Density":"10.22","Melt":"2896","Boil":"4912","Heat":"0.251","Neg10":"2.16","Abundance":"1.2"},
+{"Z":"43","Sym":"Tc","Element":"Technetium","Origin of name":"the Greek 'tekhnetos' meaning artificial","Group":"7","Period":"5","Atomic weight":"[98]1","Density":"11.5","Melt":"2430","Boil":"4538","Heat":"�","Neg10":"1.9","Abundance":"<0.001"}
+,
+{"Z":"44","Sym":"Ru","Element":"Ruthenium","Origin of name":"Russia (with the Latin name Ruthenia)","Group":"8","Period":"5","Atomic weight":"101.07(2)2","Density":"12.37","Melt":"2607","Boil":"4423","Heat":"0.238","Neg10":"2.2","Abundance":"0.001"},
+{"Z":"45","Sym":"Rh","Element":"Rhodium","Origin of name":"the Greek 'rhodon', meaning rose coloured","Group":"9","Period":"5","Atomic weight":"102.90550(2)","Density":"12.41","Melt":"2237","Boil":"3968","Heat":"0.243","Neg10":"2.28","Abundance":"0.001"},
+{"Z":"46","Sym":"Pd","Element":"Palladium","Origin of name":"the then recently discovered asteroid Pallas, considered a planet at the time","Group":"10","Period":"5","Atomic weight":"106.42(1)2","Density":"12.02","Melt":"1828.05","Boil":"3236","Heat":"0.244","Neg10":"2.2","Abundance":"0.015"},
+{"Z":"47","Sym":"Ag","Element":"Silver","Origin of name":"the Anglo-Saxon name siolfur (argentum in Latin)","Group":"11","Period":"5","Atomic weight":"107.8682(2)2","Density":"10.501","Melt":"1234.93","Boil":"2435","Heat":"0.235","Neg10":"1.93","Abundance":"0.075"},
+{"Z":"48","Sym":"Cd","Element":"Cadmium","Origin of name":"the Latin name for the mineral calmine, 'cadmia'","Group":"12","Period":"5","Atomic weight":"112.411(8)2","Density":"8.69","Melt":"594.22","Boil":"1040","Heat":"0.232","Neg10":"1.69","Abundance":"0.159"},
+{"Z":"49","Sym":"In","Element":"Indium","Origin of name":"the Latin 'indicium', meaning violet or indigo","Group":"13","Period":"5","Atomic weight":"114.818(1)","Density":"7.31","Melt":"429.75","Boil":"2345","Heat":"0.233","Neg10":"1.78","Abundance":"0.25"},
+{"Z":"50","Sym":"Sn","Element":"Tin","Origin of name":"the Anglo-Saxon word tin (stannum in Latin, meaning hard)","Group":"14","Period":"5","Atomic weight":"118.710(7)2","Density":"7.287","Melt":"505.08","Boil":"2875","Heat":"0.228","Neg10":"1.96","Abundance":"2.3"},
+{"Z":"51","Sym":"Sb","Element":"Antimony","Origin of name":"the Greek 'anti � monos', meaning not alone (stibium in Latin)","Group":"15","Period":"5","Atomic weight":"121.760(1)2","Density":"6.685","Melt":"903.78","Boil":"1860","Heat":"0.207","Neg10":"2.05","Abundance":"0.2"}
+,
+{"Z":"52","Sym":"Te","Element":"Tellurium","Origin of name":"Earth, the third planet on solar system (with the Latin word tellus)","Group":"16","Period":"5","Atomic weight":"127.60(3)2","Density":"6.232","Melt":"722.66","Boil":"1261","Heat":"0.202","Neg10":"2.1","Abundance":"0.001"},
+{"Z":"53","Sym":"I","Element":"Iodine","Origin of name":"the Greek 'iodes' meaning violet","Group":"17","Period":"5","Atomic weight":"126.90447(3)","Density":"4.93","Melt":"386.85","Boil":"457.4","Heat":"0.214","Neg10":"2.66","Abundance":"0.45"},
+{"Z":"54","Sym":"Xe","Element":"Xenon","Origin of name":"the Greek 'xenos' meaning stranger","Group":"18","Period":"5","Atomic weight":"131.293(6)2 3","Density":"0.005887","Melt":"161.4","Boil":"165.03","Heat":"0.158","Neg10":"2.6","Abundance":"<0.001"},
+{"Z":"55","Sym":"Cs","Element":"Caesium","Origin of name":"the Latin 'caesius', meaning sky blue","Group":"1","Period":"6","Atomic weight":"132.9054519(2)","Density":"1.873","Melt":"301.59","Boil":"944","Heat":"0.242","Neg10":"0.79","Abundance":"3"},
+{"Z":"56","Sym":"Ba","Element":"Barium","Origin of name":"the Greek 'barys', meaning heavy","Group":"2","Period":"6","Atomic weight":"137.327(7)","Density":"3.594","Melt":"1000","Boil":"2170","Heat":"0.204","Neg10":"0.89","Abundance":"425"},
+{"Z":"57","Sym":"La","Element":"Lanthanum","Origin of name":"the Greek 'lanthanein', meaning to lie hidden","Group":"","Period":"6","Atomic weight":"138.90547(7)2","Density":"6.145","Melt":"1193","Boil":"3737","Heat":"0.195","Neg10":"1.1","Abundance":"39"},
+{"Z":"58","Sym":"Ce","Element":"Cerium","Origin of name":"Ceres, the Roman God of agriculture","Group":"","Period":"6","Atomic weight":"140.116(1)2","Density":"6.77","Melt":"1068","Boil":"3716","Heat":"0.192","Neg10":"1.12","Abundance":"66.5"},
+{"Z":"59","Sym":"Pr","Element":"Praseodymium","Origin of name":"the Greek 'prasios didymos' meaning green twin","Group":"","Period":"6","Atomic weight":"140.90765(2)","Density":"6.773","Melt":"1208","Boil":"3793","Heat":"0.193","Neg10":"1.13","Abundance":"9.2"},
+{"Z":"60","Sym":"Nd","Element":"Neodymium","Origin of name":"the Greek 'neos didymos' meaning new twin","Group":"","Period":"6","Atomic weight":"144.242(3)2","Density":"7.007","Melt":"1297","Boil":"3347","Heat":"0.19","Neg10":"1.14","Abundance":"41.5"},
+{"Z":"61","Sym":"Pm","Element":"Promethium","Origin of name":"Prometheus of Greek mythology who stole fire from the Gods and gave it to humans","Group":"","Period":"6","Atomic weight":"[145]1","Density":"7.26","Melt":"1315","Boil":"3273","Heat":"�","Neg10":"1.13","Abundance":"<0.001"}
+,
+{"Z":"62","Sym":"Sm","Element":"Samarium","Origin of name":"Samarskite, the name of the mineral from which it was first isolated","Group":"","Period":"6","Atomic weight":"150.36(2)2","Density":"7.52","Melt":"1345","Boil":"2067","Heat":"0.197","Neg10":"1.17","Abundance":"7.05"},
+{"Z":"63","Sym":"Eu","Element":"Europium","Origin of name":"Europe","Group":"","Period":"6","Atomic weight":"151.964(1)2","Density":"5.243","Melt":"1099","Boil":"1802","Heat":"0.182","Neg10":"1.2","Abundance":"2"},
+{"Z":"64","Sym":"Gd","Element":"Gadolinium","Origin of name":"Johan Gadolin, chemist, physicist and mineralogist","Group":"","Period":"6","Atomic weight":"157.25(3)2","Density":"7.895","Melt":"1585","Boil":"3546","Heat":"0.236","Neg10":"1.2","Abundance":"6.2"},
+{"Z":"65","Sym":"Tb","Element":"Terbium","Origin of name":"Ytterby, Sweden","Group":"","Period":"6","Atomic weight":"158.92535(2)","Density":"8.229","Melt":"1629","Boil":"3503","Heat":"0.182","Neg10":"1.2","Abundance":"1.2"},
+{"Z":"66","Sym":"Dy","Element":"Dysprosium","Origin of name":"the Greek 'dysprositos', meaning hard to get","Group":"","Period":"6","Atomic weight":"162.500(1)2","Density":"8.55","Melt":"1680","Boil":"2840","Heat":"0.17","Neg10":"1.22","Abundance":"5.2"},
+{"Z":"67","Sym":"Ho","Element":"Holmium","Origin of name":"Stockholm, Sweden (with the Latin name Holmia)","Group":"","Period":"6","Atomic weight":"164.93032(2)","Density":"8.795","Melt":"1734","Boil":"2993","Heat":"0.165","Neg10":"1.23","Abundance":"1.3"},
+{"Z":"68","Sym":"Er","Element":"Erbium","Origin of name":"Ytterby, Sweden","Group":"","Period":"6","Atomic weight":"167.259(3)2","Density":"9.066","Melt":"1802","Boil":"3141","Heat":"0.168","Neg10":"1.24","Abundance":"3.5"},
+{"Z":"69","Sym":"Tm","Element":"Thulium","Origin of name":"Thule, the ancient name for Scandinavia","Group":"","Period":"6","Atomic weight":"168.93421(2)","Density":"9.321","Melt":"1818","Boil":"2223","Heat":"0.16","Neg10":"1.25","Abundance":"0.52"},
+{"Z":"70","Sym":"Yb","Element":"Ytterbium","Origin of name":"Ytterby, Sweden","Group":"","Period":"6","Atomic weight":"173.054(5)2","Density":"6.965","Melt":"1097","Boil":"1469","Heat":"0.155","Neg10":"1.1","Abundance":"3.2"},
+{"Z":"71","Sym":"Lu","Element":"Lutetium","Origin of name":"Paris, France (with the Roman name Lutetia)","Group":"3","Period":"6","Atomic weight":"174.9668(1)2","Density":"9.84","Melt":"1925","Boil":"3675","Heat":"0.154","Neg10":"1.27","Abundance":"0.8"},
+{"Z":"72","Sym":"Hf","Element":"Hafnium","Origin of name":"Copenhagen, Denmark (with the Latin name Hafnia)","Group":"4","Period":"6","Atomic weight":"178.49(2)","Density":"13.31","Melt":"2506","Boil":"4876","Heat":"0.144","Neg10":"1.3","Abundance":"3"},
+{"Z":"73","Sym":"Ta","Element":"Tantalum","Origin of name":"King Tantalus, father of Niobe from Greek mythology","Group":"5","Period":"6","Atomic weight":"180.94788(2)","Density":"16.654","Melt":"3290","Boil":"5731","Heat":"0.14","Neg10":"1.5","Abundance":"2"},
+{"Z":"74","Sym":"W","Element":"Tungsten","Origin of name":"the Swedish 'tung sten' meaning heavy stone (W is wolfram, the old name of the tungsten mineral wolframite)","Group":"6","Period":"6","Atomic weight":"183.84(1)","Density":"19.25","Melt":"3695","Boil":"5828","Heat":"0.132","Neg10":"2.36","Abundance":"1.3"},
+{"Z":"75","Sym":"Re","Element":"Rhenium","Origin of name":"Rhine, a river that flows from Grisons in the eastern Swiss Alps to the North Sea coast in the Netherlands (with the Latin name Rhenia)","Group":"7","Period":"6","Atomic weight":"186.207(1)","Density":"21.02","Melt":"3459","Boil":"5869","Heat":"0.137","Neg10":"1.9","Abundance":"<0.001"},
+{"Z":"76","Sym":"Os","Element":"Osmium","Origin of name":"the Greek 'osme', meaning smell","Group":"8","Period":"6","Atomic weight":"190.23(3)2","Density":"22.61","Melt":"3306","Boil":"5285","Heat":"0.13","Neg10":"2.2","Abundance":"0.002"},
+{"Z":"77","Sym":"Ir","Element":"Iridium","Origin of name":"Iris, the Greek goddess of the rainbow","Group":"9","Period":"6","Atomic weight":"192.217(3)","Density":"22.56","Melt":"2719","Boil":"4701","Heat":"0.131","Neg10":"2.2","Abundance":"0.001"},
+{"Z":"78","Sym":"Pt","Element":"Platinum","Origin of name":"the Spanish 'platina', meaning little silver","Group":"10","Period":"6","Atomic weight":"195.084(9)","Density":"21.46","Melt":"2041.4","Boil":"4098","Heat":"0.133","Neg10":"2.28","Abundance":"0.005"},
+{"Z":"79","Sym":"Au","Element":"Gold","Origin of name":"the Anglo-Saxon word gold (aurum in Latin, meaning glow of sunrise)","Group":"11","Period":"6","Atomic weight":"196.966569(4)","Density":"19.282","Melt":"1337.33","Boil":"3129","Heat":"0.129","Neg10":"2.54","Abundance":"0.004"},
+{"Z":"80","Sym":"Hg","Element":"Mercury","Origin of name":"Mercury, the first planet in the Solar System (Hg from former name hydrargyrum, from Greek hydr- water and argyros silver)","Group":"12","Period":"6","Atomic weight":"200.592(3)","Density":"13.5336","Melt":"234.43","Boil":"629.88","Heat":"0.14","Neg10":"2","Abundance":"0.085"},
+{"Z":"81","Sym":"Tl","Element":"Thallium","Origin of name":"the Greek 'thallos', meaning a green twig","Group":"13","Period":"6","Atomic weight":"204.389","Density":"11.85","Melt":"577","Boil":"1746","Heat":"0.129","Neg10":"1.62","Abundance":"0.85"},
+{"Z":"82","Sym":"Pb","Element":"Lead","Origin of name":"the Anglo-Saxon lead (plumbum in Latin)","Group":"14","Period":"6","Atomic weight":"207.2(1)2 4","Density":"11.342","Melt":"600.61","Boil":"2022","Heat":"0.129","Neg10":"1.87","Abundance":"14"},
+{"Z":"83","Sym":"Bi","Element":"Bismuth","Origin of name":"the German 'Bisemutum' a corruption of 'Weisse Masse' meaning white mass","Group":"15","Period":"6","Atomic weight":"208.98040(1)1","Density":"9.807","Melt":"544.7","Boil":"1837","Heat":"0.122","Neg10":"2.02","Abundance":"0.009"},
+{"Z":"84","Sym":"Po","Element":"Polonium","Origin of name":"Poland, the native country of Marie Curie, who first isolated the element","Group":"16","Period":"6","Atomic weight":"[209]1","Density":"9.32","Melt":"527","Boil":"1235","Heat":"�","Neg10":"2","Abundance":"<0.001"}
+,
+{"Z":"85","Sym":"At","Element":"Astatine","Origin of name":"the Greek 'astatos', meaning unstable","Group":"17","Period":"6","Atomic weight":"[210]1","Density":"7","Melt":"575","Boil":"610","Heat":"�","Neg10":"2.2","Abundance":"<0.001"}
+,
+{"Z":"86","Sym":"Rn","Element":"Radon","Origin of name":"From radium, as it was first detected as an emission from radium during radioactive decay","Group":"18","Period":"6","Atomic weight":"[222]1","Density":"0.00973","Melt":"202","Boil":"211.3","Heat":"0.094","Neg10":"2.2","Abundance":"<0.001"},
+{"Z":"87","Sym":"Fr","Element":"Francium","Origin of name":"France, where it was first discovered","Group":"1","Period":"7","Atomic weight":"[223]1","Density":"1.87","Melt":"300","Boil":"950","Heat":"�","Neg10":"0.7","Abundance":"<0.001"}
+,
+{"Z":"88","Sym":"Ra","Element":"Radium","Origin of name":"the Latin 'radius', meaning ray","Group":"2","Period":"7","Atomic weight":"[226]1","Density":"5.5","Melt":"973","Boil":"2010","Heat":"0.094","Neg10":"0.9","Abundance":"<0.001"},
+{"Z":"89","Sym":"Ac","Element":"Actinium","Origin of name":"the Greek 'actinos', meaning a ray","Group":"","Period":"7","Atomic weight":"[227]1","Density":"10.07","Melt":"1323","Boil":"3471","Heat":"0.12","Neg10":"1.1","Abundance":"<0.001"},
+{"Z":"90","Sym":"Th","Element":"Thorium","Origin of name":"Thor, the Scandinavian god of thunder","Group":"","Period":"7","Atomic weight":"232.03806(2)1 2","Density":"11.72","Melt":"2115","Boil":"5061","Heat":"0.113","Neg10":"1.3","Abundance":"9.6"},
+{"Z":"91","Sym":"Pa","Element":"Protactinium","Origin of name":"the Greek 'protos', meaning first, as a prefix to the element actinium, which is produced through the radioactive decay of protactinium","Group":"","Period":"7","Atomic weight":"231.03588(2)1","Density":"15.37","Melt":"1841","Boil":"4300","Heat":"�","Neg10":"1.5","Abundance":"<0.001"}
+,
+{"Z":"92","Sym":"U","Element":"Uranium","Origin of name":"Uranus, the seventh planet in the Solar System","Group":"","Period":"7","Atomic weight":"238.02891(3)1","Density":"18.95","Melt":"1405.3","Boil":"4404","Heat":"0.116","Neg10":"1.38","Abundance":"2.7"},
+{"Z":"93","Sym":"Np","Element":"Neptunium","Origin of name":"Neptune, the eighth planet in the Solar System","Group":"","Period":"7","Atomic weight":"[237]1","Density":"20.45","Melt":"917","Boil":"4273","Heat":"�","Neg10":"1.36","Abundance":"<0.001"}
+,
+{"Z":"94","Sym":"Pu","Element":"Plutonium","Origin of name":"Pluto, a dwarf planet in the Solar System","Group":"","Period":"7","Atomic weight":"[244]1","Density":"19.84","Melt":"912.5","Boil":"3501","Heat":"�","Neg10":"1.28","Abundance":"<0.001"}
+,
+{"Z":"95","Sym":"Am","Element":"Americium","Origin of name":"Americas, the continent where the element was first synthesized","Group":"","Period":"7","Atomic weight":"[243]1","Density":"13.69","Melt":"1449","Boil":"2880","Heat":"�","Neg10":"1.13","Abundance":"<0.001"}
+,
+{"Z":"96","Sym":"Cm","Element":"Curium","Origin of name":"Pierre Curie, a physicist, and Marie Curie, a physicist and chemist","Group":"","Period":"7","Atomic weight":"[247]1","Density":"13.51","Melt":"1613","Boil":"3383","Heat":"�","Neg10":"1.28","Abundance":"<0.001"}
+,
+{"Z":"97","Sym":"Bk","Element":"Berkelium","Origin of name":"Berkeley, California, USA, where the element was first synthesized","Group":"","Period":"7","Atomic weight":"[247]1","Density":"14.79","Melt":"1259","Boil":"2900","Heat":"�","Neg10":"1.3","Abundance":"<0.001"}
+,
+{"Z":"98","Sym":"Cf","Element":"Californium","Origin of name":"State of California, USA, where the element was first synthesized","Group":"","Period":"7","Atomic weight":"[251]1","Density":"15.1","Melt":"1173","Boil":"(1743)11","Heat":"�","Neg10":"1.3","Abundance":"<0.001"}
+,
+{"Z":"99","Sym":"Es","Element":"Einsteinium","Origin of name":"Albert Einstein, physicist","Group":"","Period":"7","Atomic weight":"[252]1","Density":"8.84","Melt":"1133","Boil":"(1269)11","Heat":"�","Neg10":"1.3","Abundance":"0 8"}
+,
+{"Z":"100","Sym":"Fm","Element":"Fermium","Origin of name":"Enrico Fermi, physicist","Group":"","Period":"7","Atomic weight":"[257]1","Density":"�","Melt":"(1125)11","Boil":"�","Heat":"�","Neg10":"1.3","Abundance":"0 8"}
+,
+{"Z":"101","Sym":"Md","Element":"Mendelevium","Origin of name":"Dmitri Mendeleyev, chemist and inventor","Group":"","Period":"7","Atomic weight":"[258]1","Density":"�","Melt":"(1100)11","Boil":"�","Heat":"�","Neg10":"1.3","Abundance":"0 8"}
+,
+{"Z":"102","Sym":"No","Element":"Nobelium","Origin of name":"Alfred Nobel, chemist, engineer, innovator, and armaments manufacturer","Group":"","Period":"7","Atomic weight":"[259]1","Density":"�","Melt":"(1100)11","Boil":"�","Heat":"�","Neg10":"1.3","Abundance":"0 8"}
+,
+{"Z":"103","Sym":"Lr","Element":"Lawrencium","Origin of name":"Ernest O. Lawrence, physicist","Group":"3","Period":"7","Atomic weight":"[262]1","Density":"�","Melt":"(1900)11","Boil":"�","Heat":"�","Neg10":"1.3","Abundance":"0 8"}
+,
+{"Z":"104","Sym":"Rf","Element":"Rutherfordium","Origin of name":"Ernest Rutherford, chemist and physicist","Group":"4","Period":"7","Atomic weight":"[267]1","Density":"(23.2)11","Melt":"(2400)11","Boil":"(5800)11","Heat":"�","Neg10":"�","Abundance":"0 8"}
+,
+{"Z":"105","Sym":"Db","Element":"Dubnium","Origin of name":"Dubna, Russia","Group":"5","Period":"7","Atomic weight":"[268]1","Density":"(29.3)11","Melt":"�","Boil":"�","Heat":"�","Neg10":"�","Abundance":"0 8"}
+,
+{"Z":"106","Sym":"Sg","Element":"Seaborgium","Origin of name":"Glenn T. Seaborg, scientist","Group":"6","Period":"7","Atomic weight":"[269]1","Density":"(35.0)11","Melt":"�","Boil":"�","Heat":"�","Neg10":"�","Abundance":"0 8"}
+,
+{"Z":"107","Sym":"Bh","Element":"Bohrium","Origin of name":"Niels Bohr, physicist","Group":"7","Period":"7","Atomic weight":"[270]1","Density":"(37.1)11","Melt":"�","Boil":"�","Heat":"�","Neg10":"�","Abundance":"0 8"}
+,
+{"Z":"108","Sym":"Hs","Element":"Hassium","Origin of name":"Hesse, Germany, where the element was first synthesized","Group":"8","Period":"7","Atomic weight":"[269]1","Density":"(40.7)11","Melt":"�","Boil":"�","Heat":"�","Neg10":"�","Abundance":"0 8"}
+,
+{"Z":"109","Sym":"Mt","Element":"Meitnerium","Origin of name":"Lise Meitner, physicist","Group":"9","Period":"7","Atomic weight":"[278]1","Density":"(37.4)11","Melt":"�","Boil":"�","Heat":"�","Neg10":"�","Abundance":"0 8"}
+,
+{"Z":"110","Sym":"Ds","Element":"Darmstadtium","Origin of name":"Darmstadt, Germany, where the element was first synthesized","Group":"10","Period":"7","Atomic weight":"[281]1","Density":"(34.8)11","Melt":"�","Boil":"�","Heat":"�","Neg10":"�","Abundance":"0 8"}
+,
+{"Z":"111","Sym":"Rg","Element":"Roentgenium","Origin of name":"Wilhelm Conrad R�ntgen, physicist","Group":"11","Period":"7","Atomic weight":"[281]1","Density":"(28.7)11","Melt":"�","Boil":"�","Heat":"�","Neg10":"�","Abundance":"0 8"}
+,
+{"Z":"112","Sym":"Cn","Element":"Copernicium","Origin of name":"Nicolaus Copernicus, astronomer","Group":"12","Period":"7","Atomic weight":"[285]1","Density":"(23.7)11","Melt":"�","Boil":"357 12","Heat":"�","Neg10":"�","Abundance":"0 8"}
+,
+{"Z":"113","Sym":"Uut","Element":"Ununtrium","Origin of name":"IUPAC systematic element name","Group":"13","Period":"7","Atomic weight":"[286]1","Density":"(16)11","Melt":"(700)11","Boil":"(1400)11","Heat":"�","Neg10":"�","Abundance":"0 8"}
+,
+{"Z":"114","Sym":"Fl","Element":"Flerovium","Origin of name":"Georgy Flyorov, physicist","Group":"14","Period":"7","Atomic weight":"[289]1","Density":"(14)11","Melt":"(340)11","Boil":"(420)11","Heat":"�","Neg10":"�","Abundance":"0 8"}
+,
+{"Z":"115","Sym":"Uup","Element":"Ununpentium","Origin of name":"IUPAC systematic element name","Group":"15","Period":"7","Atomic weight":"[288]1","Density":"(13.5)11","Melt":"(700)11","Boil":"(1400)11","Heat":"�","Neg10":"�","Abundance":"0 8"}
+,
+{"Z":"116","Sym":"Lv","Element":"Livermorium","Origin of name":"Lawrence Livermore National Laboratory (in Livermore, California) which collaborated with JINR on its synthesis","Group":"16","Period":"7","Atomic weight":"[293]1","Density":"(12.9)11","Melt":"(708.5)11","Boil":"(1085)11","Heat":"�","Neg10":"�","Abundance":"0 8"}
+,
+{"Z":"117","Sym":"Uus","Element":"Ununseptium","Origin of name":"IUPAC systematic element name","Group":"17","Period":"7","Atomic weight":"[294]1","Density":"(7.2)11","Melt":"(673)11","Boil":"(823)11","Heat":"�","Neg10":"�","Abundance":"0 8"}
+,
+{"Z":"118","Sym":"Uuo","Element":"Ununoctium","Origin of name":"IUPAC systematic element name","Group":"18","Period":"7","Atomic weight":"[294]1","Density":"(5.0)11 13","Melt":"(258)11","Boil":"(263)11","Heat":"�","Neg10":"�","Abundance":"0 8"}
+,
+{"Z":"","Sym":"","Element":"","Origin of name":"","Group":"","Period":"","Atomic weight":"","Density":"","Melt":"","Boil":"","Heat":"","Neg10":"","Abundance":""},
+{"Z":"For other more formats kindly visit : www.downloadexcelfiles.com","Sym":"","Element":"","Origin of name":"","Group":"","Period":"","Atomic weight":"","Density":"","Melt":"","Boil":"","Heat":"","Neg10":"","Abundance":""},
+{"Z":"","Sym":"","Element":"","Origin of name":"","Group":"","Period":"","Atomic weight":"","Density":"","Melt":"","Boil":"","Heat":"","Neg10":"","Abundance":""},
+{"Z":"Original source : en.wikipedia.org/wiki/List_of_elements","Sym":"","Element":"","Origin of name":"","Group":"","Period":"","Atomic weight":"","Density":"","Melt":"","Boil":"","Heat":"","Neg10":"","Abundance":""}
+]
