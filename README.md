@@ -1,4 +1,3 @@
-
 # DART Edge AI
 DART Edge AI Low-level Language
 
@@ -44,15 +43,15 @@ DART Meadow LLC
 
 Radical Deepscale LLC 
 
+14622 Ventura Blvd Suite 386, Sherman Oaks, CA. 91403
+
 https://www.dartmeadow.com/
-https://www.dartedge.com/
-https://www.dartedgeai.com/
 
 Maintenance Link:
+
 https://cotharticren.wixsite.com/dartmeadow
 
-1213 N Kingshighway Suite 102
-Cape Girardeau, Missouri, 63701
+
 
 [DART Edge AI.pdf](https://github.com/radicaldeepscale/DARTEdgeAI/files/11569275/DART.Edge.AI.pdf)
 
